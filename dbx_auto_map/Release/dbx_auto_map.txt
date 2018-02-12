@@ -1,0 +1,7 @@
+-*-   DBX Auto mapper  1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+DBX Auto mapper
+
+Usage: dbx_auto_map.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
